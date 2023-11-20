@@ -1,0 +1,39 @@
+body{
+
+    overflow: hidden;
+    background-color:black;
+    text-align:center;
+}
+
+#bosshp{
+    font-family:"Press Start 2P";
+    position:relative;
+    bottom:50px;
+    color:white;
+}
+
+#playerhp{
+    display:block;
+    font-family:"Press Start 2P";
+    position:relative;
+    bottom:100px;
+    color:white;
+}
+
+
+#audio{
+    position:absolute;
+    right:60px;
+    bottom:200px;
+}
+
+#controls{
+    position:absolute;
+    right:700px;
+    bottom:130px;
+    color:white;
+}
+
+#board{
+    background-image:url("media/004.png");
+}
